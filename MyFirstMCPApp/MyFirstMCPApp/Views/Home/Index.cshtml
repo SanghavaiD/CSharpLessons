@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to MVC</h1></h1>
+<form action="Home/DoLogin">
+    <div>
+        <div>
+            <label for="txtUser">User Name:</label>
+            <input type="text" name="txtUser"  required placeholder="Enter UserID" />
+        </div>
+        <div>
+            <label for="txtpwd">Password:</label>
+            <input type="password" name="txtpwd"  required placeholder="Enter Password" />
+        </div>
+        <div>
+            <input type="submit" value="Login" />
+        </div>
+    </div>
+</form>
+</div>
+<div>
+    <a href ="Home/SayHello?name = Sanghavai">SayHello</a>
+</div>
+<div>
+    <a href ="Home/Add?x=100&y=200">Add</a>
+</div>
+<div>
+    <a href="Home/Multiply?x=10&y=20">Product</a>
+</div>
+<div>
+    <a href="Home/Divide?x=200&y=100">Divide</a>
+</div>
+<div>
+    <a href="Home/AddNewBook">New Book</a>
+</div>
+<div>
+    <a href="Home/ListAllBook">All Books</a>
+</div>
+
+<div>
+    <a href="Home/NewAuthor">New Author</a>
+</div>
+<div>
+    <a href="Home/ListAllAuthor"> Author Details</a>
+</div>
+<div>
+    <a href="Author">Author Landing Page</a>
+</div>
+<div>
+    <a href="Author/Create">Create Author</a>
+</div>
+<div>
+    <a href="Emp">Table Landing Page</a>
+</div>
+<div>
+    <a href="Movie">Movie Landing Page</a>
+</div>

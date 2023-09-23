@@ -1,0 +1,11 @@
+C:\Users\sanghavai.d\source\repos\ClassLibrary1\bin\Debug\net6.0\LibraryA.deps.json
+C:\Users\sanghavai.d\source\repos\ClassLibrary1\bin\Debug\net6.0\LibraryA.dll
+C:\Users\sanghavai.d\source\repos\ClassLibrary1\bin\Debug\net6.0\LibraryA.pdb
+C:\Users\sanghavai.d\source\repos\ClassLibrary1\obj\Debug\net6.0\LibraryA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanghavai.d\source\repos\ClassLibrary1\obj\Debug\net6.0\LibraryA.AssemblyInfoInputs.cache
+C:\Users\sanghavai.d\source\repos\ClassLibrary1\obj\Debug\net6.0\LibraryA.AssemblyInfo.cs
+C:\Users\sanghavai.d\source\repos\ClassLibrary1\obj\Debug\net6.0\LibraryA.csproj.CoreCompileInputs.cache
+C:\Users\sanghavai.d\source\repos\ClassLibrary1\obj\Debug\net6.0\LibraryA.dll
+C:\Users\sanghavai.d\source\repos\ClassLibrary1\obj\Debug\net6.0\refint\LibraryA.dll
+C:\Users\sanghavai.d\source\repos\ClassLibrary1\obj\Debug\net6.0\LibraryA.pdb
+C:\Users\sanghavai.d\source\repos\ClassLibrary1\obj\Debug\net6.0\ref\LibraryA.dll
